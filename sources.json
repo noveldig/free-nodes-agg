@@ -1,0 +1,17 @@
+[
+  {"name": "zhuhaiuk/nodes.txt", "type": "v2ray", "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt"},
+  {"name": "zhuhaiuk/clash_config", "type": "clash", "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml"},
+  {"name": "snakem982/clash-meta", "type": "clash", "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml"},
+  {"name": "snakem982/v2ray", "type": "v2ray", "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"},
+  {"name": "ebrasha/all-type", "type": "v2ray", "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt"},
+  {"name": "ebrasha/vmess", "type": "v2ray", "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vmess_configs.txt"},
+  {"name": "ebrasha/vless", "type": "v2ray", "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/vless_configs.txt"},
+  {"name": "ebrasha/trojan", "type": "v2ray", "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/trojan_configs.txt"},
+  {"name": "ebrasha/ss", "type": "v2ray", "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/ss_configs.txt"},
+  {"name": "Barabama/merged", "type": "clash", "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/merged.yaml"},
+  {"name": "Barabama/merged-txt", "type": "v2ray", "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/merged.txt"},
+  {"name": "anaer/Sub", "type": "clash", "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml"},
+  {"name": "ermaozi/get_subscribe", "type": "clash", "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml"},
+  {"name": "Barabama/nodev2ray", "type": "v2ray", "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/feat/ai-crawler-v2/nodes/nodev2ray.txt"},
+  {"name": "xrayvip/free.txt", "type": "v2ray", "url": "https://www.xrayvip.com/free.txt"}
+]
