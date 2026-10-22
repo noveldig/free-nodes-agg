@@ -1,7 +1,7 @@
 {
   "sources": {
-    "zhuhaiuk/nodes.txt": 6,
-    "zhuhaiuk/clash_config": 8,
+    "zhuhaiuk/nodes.txt": 5,
+    "zhuhaiuk/clash_config": 7,
     "snakem982/clash-meta": 63,
     "snakem982/v2ray": 63,
     "ebrasha/all-type": 0,
@@ -14,20 +14,20 @@
     "anaer/Sub": 1611,
     "ermaozi/get_subscribe": 339,
     "Barabama/nodev2ray": 3120,
-    "xrayvip/free.txt": 243
+    "xrayvip/free.txt": 126
   },
   "ok": 10,
   "fail": 5,
-  "total_links": 24063,
-  "unique_links": 14370,
+  "total_links": 23944,
+  "unique_links": 14316,
   "by_scheme": {
     "hysteria": 5,
     "hysteria2": 581,
-    "ss": 700,
+    "ss": 702,
     "ssr": 1,
-    "trojan": 1818,
+    "trojan": 1819,
     "tuic": 3,
-    "vless": 9851,
-    "vmess": 1411
+    "vless": 9798,
+    "vmess": 1407
   }
 }
