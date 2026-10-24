@@ -810,6 +810,7 @@ vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?type=grpc&secu
 vless://82241d60-2bdf-4de7-9a29-2d57ebc09b76@104.18.117.159:443?type=ws&security=tls&sni=h18i2jam-v6htjq-f-vwai0pvgltc6on.hghorbani-mc70.workers.dev&path=%2FeyJqdW5rIjoiSWVocjJHeWRvSGxYaThvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&host=h18i2jam-v6htjq-f-vwai0pvgltc6on.hghorbani-mc70.workers.dev&fp=chrome#%E7%BE%8E%E5%9B%BD%20684
 vless://82241d60-2bdf-4de7-9a29-2d57ebc09b76@162.159.9.83:443?type=ws&security=tls&sni=h18i2jam-v6htjq-f-vwai0pvgltc6on.hghorbani-mc70.workers.dev&path=%2FeyJqdW5rIjoiSWVocjJHeWRvSGxYaThvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&host=h18i2jam-v6htjq-f-vwai0pvgltc6on.hghorbani-mc70.workers.dev&fp=chrome#%E7%BE%8E%E5%9B%BD%20685
 vless://823b4851-27ba-4655-badf-ee7ff0af1cad@104.18.155.229:2095?type=ws&security=tls&sni=cUriouS-LINeo0S87W61ln.spOrTLAnd.cOmPany.&path=%2F%3Fed%3D2048&host=cUriouS-LINeo0S87W61ln.spOrTLAnd.cOmPany.#%E7%BE%8E%E5%9B%BD%20686
+vless://82eb8419-59f4-4d3e-9106-d05d22af615c@45.207.157.8:9443?security=reality&sni=www.amazon.com&fp=chrome&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc&flow=xtls-rprx-vision#HK%20-%20zhuhai.uk%2002
 vless://83218234-0bab-4884-b2a5-d298c4d6e0b7@51.83.6.5:20373?type=ws&security=tls&sni=51.75.118.151&path=%2Fmb-vless&host=51.75.118.151#%E7%BE%8E%E5%9B%BD%20687
 vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@172.67.130.159:2096?type=ws&security=tls&sni=cdn-sg.skyvora.app&path=%2F78bc8&host=cdn-sg.skyvora.app&fp=chrome#%E7%BE%8E%E5%9B%BD%20688
 vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?type=grpc&security=tls&sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co#%E5%B7%B4%E8%A5%BF%20035
@@ -990,7 +991,6 @@ vless://c0c5d026-9f17-4b35-b180-2b96956c6ba2@89.144.145.233:45870?security=tls#%
 vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.73.206:8443?type=ws&security=tls&sni=free.sahanwickramasinghe.me&path=%2F&host=free.sahanwickramasinghe.me#%E7%BE%8E%E5%9B%BD%20749
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@103.148.73.173:8443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome#%E4%B8%AD%E5%9B%BD%20004
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@103.180.20.108:8443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%20001
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@103.180.20.176:8443?type=ws&security=tls&sni=tse1.mm.bing.net&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=tse1.mm.bing.net&allowInsecure=1#HK%20-%20zhuhai.uk
 vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?type=ws&security=tls&sni=neth8.lunariai.ru&path=%2F&host=neth8.lunariai.ru#%E8%8B%B1%E5%9B%BD%20042
 vless://c27e9b8b-52ea-43e2-b491-aaca7d955cd4@91.107.245.59:443?security=tls#%E5%BE%B7%E5%9B%BD%20082
 vless://c2b0f077-5ef5-462f-b70c-cefb718b1155@165.245.241.161:440?security=tls#%E7%BE%8E%E5%9B%BD%20750

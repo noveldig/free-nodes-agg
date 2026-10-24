@@ -1,6 +1,6 @@
 {
   "sources": {
-    "zhuhaiuk/nodes.txt": 2,
+    "zhuhaiuk/nodes.txt": 1,
     "zhuhaiuk/clash_config": 4,
     "snakem982/clash-meta": 58,
     "snakem982/v2ray": 58,
@@ -18,7 +18,7 @@
   },
   "ok": 7,
   "fail": 8,
-  "total_links": 2127,
+  "total_links": 2126,
   "unique_links": 1998,
   "by_scheme": {
     "hysteria2": 45,
