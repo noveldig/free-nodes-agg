@@ -1,7 +1,7 @@
 {
   "sources": {
-    "zhuhaiuk/nodes.txt": 5,
-    "zhuhaiuk/clash_config": 7,
+    "zhuhaiuk/nodes.txt": 3,
+    "zhuhaiuk/clash_config": 4,
     "snakem982/clash-meta": 61,
     "snakem982/v2ray": 61,
     "ebrasha/all-type": 0,
@@ -18,13 +18,13 @@
   },
   "ok": 7,
   "fail": 8,
-  "total_links": 2118,
-  "unique_links": 1973,
+  "total_links": 2113,
+  "unique_links": 1969,
   "by_scheme": {
-    "hysteria2": 54,
+    "hysteria2": 56,
     "ss": 53,
     "trojan": 61,
-    "vless": 1015,
+    "vless": 1009,
     "vmess": 790
   }
 }
