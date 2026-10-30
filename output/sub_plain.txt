@@ -613,6 +613,7 @@ vless://12cb0a24-0438-4980-8617-9c93205895fa@199.181.197.1:443?type=ws&security=
 vless://1320b10b-9680-40b5-99a1-12a0a8b3134a@cdn1.ir53.indevs.in:443?type=ws&security=tls&sni=cdn1.ir53.indevs.in&path=%2Fvarzesh3.com&host=cdn1.ir53.indevs.in&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20%E7%91%9E%E5%85%B8%20%7C%20SWE%20%232
 vless://1375d9a1-dece-4bbb-8131-29e06afd8ca4@141.227.180.211:25365?type=grpc&security=tls#%E6%B3%95%E5%9B%BD%20016
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?type=ws&security=tls&sni=barayeiranmahsang.loseyourself.dpdns.org&path=%2F&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD%20447
+vless://14cfea1a-e7b2-4f27-b46e-34c9efabf198@2407:cdc0:d010:27bd:::30454?security=reality&sni=www.samsung.com&fp=chrome&pbk=I4WlCiks92rMzYTBZ3T_iDHU-kQX1bUW7jVIsjiklUE&sid=4e4d7529&flow=xtls-rprx-vision#SG%20-%20zhuhai.uk
 vless://14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca@94.183.149.98:6000?security=tls#%E4%BC%8A%E6%9C%97%20063
 vless://160cc7e4-1e11-44e8-71fd-b162fbb1c83e@record.persianmizban.com:443?type=ws&security=tls&sni=lgoin.persianmizban.com&path=%2F&host=lgoin.persianmizban.com&fp=firefox#%E7%BE%8E%E5%9B%BD%20448
 vless://1625ad92-8b3a-44b5-a719-08a5a73fd3af@svnteam.aeza.nisvn.ir:80?type=ws&security=tls&sni=Aeza.net&path=%2F&host=Aeza.net#%E5%85%B6%E4%BB%96%20088
@@ -692,8 +693,6 @@ vless://2ce4da59-28c7-41fa-9411-7dfde437c1cb@mainv2-ray.fast.hosting-ip.com:80?t
 vless://2ce4da59-28c7-41fa-9411-7dfde437c1cb@redbrain.shopping:80?type=ws&security=tls&sni=namehmain.com&path=%2FTELEGRAM-&host=namehmain.com#%E7%BE%8E%E5%9B%BD%20472
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?type=ws&security=tls&sni=aio.loophole.Biz.iD&path=%2Faioproxybot%2F8.215.59.6-443&host=aio.loophole.Biz.iD#%E7%BE%8E%E5%9B%BD%20473
 vless://2d0c13f6-5b99-4ed8-9f88-3a6972f85e9f@141.227.168.52:33288?type=grpc&security=tls#%E6%B3%95%E5%9B%BD%20021
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&allowInsecure=1&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#SG%20-%20zhuhai.uk
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?type=tcp&security=reality&sni=sg2-8sb.6121999.dpdns.org&flow=xtls-rprx-vision&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2&fp=chrome&allowInsecure=1#SG%20-%20zhuhai.uk
 vless://2da85937-93d9-4509-8491-63b1921cf447@6.bmi.ir.asopardaz.ir:8443#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...
 vless://2db037d5-401b-45cf-93b3-a969fae92847@141.227.174.116:28329?type=grpc&security=tls#%E6%B3%95%E5%9B%BD%20022
 vless://2db1052b-653e-46ba-8260-7f28758793c5@141.227.180.39:22289?type=grpc&security=tls#%E6%B3%95%E5%9B%BD%20023
@@ -726,8 +725,8 @@ vless://354712c4-dab3-452c-89fd-0a2edd6999f9@185.47.172.105:2083?type=grpc&secur
 vless://35aa4cf8-c13c-58db-bd62-9de92225030f@95.164.38.6:2052?type=ws&security=tls&sni=www-domain.no1.v2vless.sitespeedtest.net&path=%2Fvless%2FTelegram&host=www-domain.no1.v2vless.sitespeedtest.net#%E4%B9%8C%E5%85%8B%E5%85%B0%20010
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru3.radiolumens.uk:8444?type=grpc&security=tls&sni=ru3.radiolumens.uk&serviceName=beru-uk#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@193.148.253.194:25362#%F0%9F%87%A9%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-DE-1...%20%232
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=reality&sni=www.chip.de&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#DE%20-%20zhuhai.uk
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?type=tcp&security=reality&sni=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&fp=chrome#DE%20-%20zhuhai.uk
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=reality&sni=www.chip.de&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#DE%20-%20zhuhai.uk%2002
+vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?type=tcp&security=reality&sni=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&fp=chrome#DE%20-%20zhuhai.uk%2002
 vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?type=ws&security=tls&sni=invincible.fafa20.shop&path=%2FKvNugxSUpljMOjgF%2FNzguNDcuMTU3LjY%3D%3Fed%3D2560&host=invincible.fafa20.shop&fp=randomized#%E8%8D%B7%E5%85%B0%20014
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_2
 vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&security=none&type=tcp#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%91100
