@@ -14,17 +14,17 @@
     "anaer/Sub": 2157,
     "ermaozi/get_subscribe": 348,
     "Barabama/nodev2ray": 0,
-    "xrayvip/free.txt": 24
+    "xrayvip/free.txt": 23
   },
   "ok": 7,
   "fail": 8,
-  "total_links": 2641,
-  "unique_links": 2497,
+  "total_links": 2640,
+  "unique_links": 2491,
   "by_scheme": {
     "hysteria2": 53,
     "ss": 99,
     "trojan": 365,
-    "vless": 1006,
-    "vmess": 974
+    "vless": 1001,
+    "vmess": 973
   }
 }
